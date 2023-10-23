@@ -1,54 +1,69 @@
-## Hello! My name is João Pedro and I am a FullStack developer, i also make vlogs for fun on my youtube channel 😄
+<div align="center">
+  <h6> You can refer to me using any pronoums </h6>
+  <h3> 👋 </h3>
+  <h3> My name is João and i am a Brazilian FullStack developer. </h3>
+  <h4> I have 22 years old and have been working 3 years with Javascript</h4>
+  <h4> Working as Mid FullStack developer @ FuerzaStudio </h4>
+  <h4> Graduating in Computer Science @ Feevale University </h4>
+  <h5>Contact info:</h5>
+  <h4>
+    <a href="mailto:joao.oliveira0117@hotmail.com">E-mail</a> |
+    <a href="https://www.linkedin.com/in/joaooliveira0117/">LinkedIn</a>
+  </h5>
+</div>
+
+#
 
 <div align="center">
-  <a href="https://github.com/JoaoOliveira0117">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoOliveira0117&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoOliveira0117&layout=compact&langs_count=7&theme=dracula"/>
+  <img alt="Joao-javascript" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Joao-python" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Joao-java" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-  
-<div align="center" display="block">
-  <a href="https://www.linkedin.com/in/joaooliveira0117/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-</div>
-  
-  ##
-  
-<div align="center"><br>
-  <h3>Main Technologies that i work with: </h3>
-  <div style="display: inline_block">
-    <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Joao-NodeJS" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg'>
-    <img align="center" alt="Joao-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Joao-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  </div>
-  
-  <h3>Technologies that i am studying: </h3>
-  
-  <div style="display: inline_block">
-    <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
-  </div>
-</div>
-    
-    
-##
-    
-    
 <div align="center">
-  <h3>Some cool facts about me...</h3>
-  <img width="200" height="200" src="https://c.tenor.com/nsJsyDFCQoEAAAAi/macarena-skeleton.gif"/>
+  <img alt="Joao-javascript" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img alt="Joao-python" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img alt="Joao-java" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
+
+<h3 align="center">NodeJS, ReactJS, React Native, NextJS</h3>
+<h6 align="center"> Learning new technologies is not an blockage to me </h6>
+<h6 align="center"> My professional objective is to learn as much development hard skills as i can so someday i can start working on my game projects </h6>
+
+#
+
+<div align="center">
+  <img width="400" alt="image" src="https://github.com/JoaoOliveira0117/JoaoOliveira0117/assets/46169735/2306d242-dc4e-45f0-b512-5fb5c4a14f8f">
+  <h6>Thank you for scrolling, here's a cat pic for you</h6>
+  <h6>Her name is "Amarelinha", meaning the yellow color in portuguese</h6>
+</div>
+
     
-    
-- 🎮 On my free time, I study game development.
-- 🙀 I have 17 cats, most of them used to live in the streets so me and my mother adopted them.
-- 🌴 I preffer hot temperatures, summer... etc.
-- 💚💛💙 I live in Brazil, Rio grande do Sul. Also i have some plans to live in other country in the future 🤔.
-- 🎶 My favorite song at the moment is Loving Nobody by Galxara.
+### Cool facts about me
+<ul>
+  <li>
+    <h5> Please ask me about Evangelion </h5>
+  </li>
+  <li>  
+    <h5> I love everything related to games, principally its development </h5>
+  </li>
+  <li>
+    <h5> I have 20 cats, all of them with their names ( and i promise its not hard remembering their names ) </h5>
+  </li>
+  <li>
+    <h5> I'm currently working on my personal project: 
+      <a href="https://github.com/JoaoOliveira0117/pulseconnect">Pulseconnect</a>, 
+      which is a twitter clone, both its backend and frontend. 
+    </h5>
+  </li>
+  <li>
+    <h5> I listen mostly to pop songs, my favorite songs include: 
+      <a href="https://www.youtube.com/watch?v=Inl6sPo4jF4">Loving Nobody - Galxara</a>;
+      <a href="https://www.youtube.com/watch?v=Yk7GAh_Gu8U">Spinning - Madison Beer</a>;
+      <a href="https://www.youtube.com/watch?v=PytZs2ePxQw">Spinning - Madison Beer</a>;
+    </h5>
+  </li>
+</ul>
     
     
 <!--
