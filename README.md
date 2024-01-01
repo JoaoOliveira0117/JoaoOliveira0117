@@ -53,9 +53,12 @@
     <h5>  <a href=""></a> I have 20 cats, all of them with their names ( and i promise its not hard remembering their names ) </h5>
   </li>
   <li>
-    <h5>  <a href=""></a> I'm currently working on my personal project: 
-      <a href="https://github.com/JoaoOliveira0117/pulseconnect">Pulseconnect</a>, 
-      which is a twitter clone, both its backend and frontend. 
+    <h5>  <a href=""></a> There's a list of personal projects: </h5>
+  </li>
+  <li>
+    <h5>
+        <a href="https://github.com/JoaoOliveira0117/pulseconnect">Pulseconnect</a>, 
+        which is a twitter clone, both its backend and frontend. 
     </h5>
   </li>
   <li>
