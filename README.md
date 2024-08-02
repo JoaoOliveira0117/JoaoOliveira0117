@@ -1,12 +1,12 @@
 <div align="center">
   <h6>
     <a href=""></a>
-    You can refer to me using any pronoums
+    Feel free to use any pronoums
   </h6>
   <h1>  <a href=""></a> 👋 </h3>
   <h3>  <a href=""></a> My name is João and i am a Brazilian FullStack developer. </h3>
-  <h4>  <a href=""></a> I have 22 years old and have been working 3 years with Javascript</h4>
-  <h4>  <a href=""></a> Working as Mid FullStack developer @ FuerzaStudio </h4>
+  <h4>  <a href=""></a> I have 23 years old, professional developer since 2020</h4>
+  <h4>  <a href=""></a> FullStack developer @ FuerzaStudio </h4>
   <h4>  <a href=""></a> Graduating in Computer Science @ Feevale University </h4>
   <h5>  <a href=""></a> Contact info:</h5>
   <h3>
@@ -24,14 +24,24 @@
 </div>
 
 <div align="center">
+  <img alt="Joao-javascript" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img alt="Joao-python" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img alt="Joao-python" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+</div>
+
+<div align="center">
   <img alt="Joao-javascript" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img alt="Joao-python" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img alt="Joao-java" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 <h3 align="center">  <a href=""></a> NodeJS, ReactJS, React Native, NextJS</h3>
+<h3 align="center">  <a href=""></a> Laravel, Flask, Django </h3>
+<h3 align="center">  <a href=""></a> Godot, Unity</h3>
+<h4 align="center">  <a href=""></a> RestAPI, SQL and no SQL databases, UnitTest, Cloud development (AWS and Google Cloud) </h4>
 <h6 align="center">  <a href=""></a> Learning new technologies is not an blockage to me </h6>
-<h6 align="center">  <a href=""></a> My professional objective is to learn as much development hard skills as i can so someday i can start working on my game projects </h6>
+<h6 align="center">  <a href=""></a> I'm also a game developer! <a href="https://play.google.com/store/apps/details?id=com.fuerzastudio.citykitty&hl=en_US">Check City Kitty, one of my projects, on GooglePlay!</a> </h6>
+
 
 #
 
@@ -44,22 +54,16 @@
 ### Cool facts about me
 <ul>
   <li>
-    <h5>  <a href=""></a> Please ask me about Evangelion </h5>
+    <h5>  <a href=""></a> Neon Genesis Evangelion fan, ask me about the ending! </h5>
   </li>
   <li>  
-    <h5>  <a href=""></a> I love everything related to games, principally its development </h5>
+    <h5>  <a href=""></a> I love games, both playing and developing! </h5>
   </li>
   <li>
-    <h5>  <a href=""></a> I have 20 cats, all of them with their names ( and i promise its not hard remembering their names ) </h5>
+    <h5>  <a href=""></a> I have 20 cats, ask me about their names! </h5>
   </li>
   <li>
-    <h5>  <a href=""></a> There's a list of personal projects: </h5>
-  </li>
-  <li>
-    <h5>
-        <a href="https://github.com/JoaoOliveira0117/pulseconnect">Pulseconnect</a>, 
-        which is a twitter clone, both its backend and frontend. 
-    </h5>
+    <h5>  <a href=""></a> I'm very passionate on developing personal projects, check my repositories! </h5>
   </li>
   <li>
     <h5> <a href=""></a>  I listen mostly to pop songs, my favorite songs include: 
