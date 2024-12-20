@@ -5,7 +5,7 @@
   </h6>
   <h1>  <a href=""></a> 👋 </h3>
   <h3>  <a href=""></a> My name is João and i am a Brazilian FullStack developer. </h3>
-  <h4>  <a href=""></a> I have 23 years old, professional developer since 2020</h4>
+  <h4>  <a href=""></a> I have 23 years old, professional developer since 2019</h4>
   <h4>  <a href=""></a> FullStack developer @ FuerzaStudio </h4>
   <h4>  <a href=""></a> Graduating in Computer Science @ Feevale University </h4>
   <h5>  <a href=""></a> Contact info:</h5>
