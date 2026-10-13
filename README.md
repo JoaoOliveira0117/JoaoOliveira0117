@@ -17,4 +17,4 @@ B.Sc. Computer Science — Feevale University (2027)
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/joaooliveira0117/) · [Email](mailto:joao.oliveira0117@hotmail.com) · [Resume](RESUME_LINK)
+[LinkedIn](https://www.linkedin.com/in/joaooliveira0117/) · [Email](mailto:joao.oliveira0117@hotmail.com)
