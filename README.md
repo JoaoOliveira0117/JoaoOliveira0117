@@ -1,5 +1,3 @@
-Software Engineer at Deel. 
-
 Building cool things with Node.js, TypeScript and Python, with professional experience since 2019.
 
 Brazil (UTC−3) · Remote
